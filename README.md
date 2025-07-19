@@ -1,12 +1,25 @@
-# React + Vite
+# 🛍️ Meesho-Style Product Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A mini project built with **React JS** (Vite) and **Tailwind CSS**, featuring a clean and responsive product gallery UI inspired by Meesho.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🖼️ Product cards with images, prices, and CTA button
+- 🎨 Meesho-inspired design with Tailwind utility classes
+- ⚡ Fast loading with Vite
+- ✨ Hover animations & transitions
+- 📱 Responsive grid layout for all screen sizes
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Product Gallery Screenshot](./screenshot.png) <!-- Update path if image is saved elsewhere -->
+
+## 🛠️ Tech Stack
+
+- [React JS](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## 📂 Project Structure
+
+
