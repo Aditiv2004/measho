@@ -12,7 +12,7 @@ A mini project built with **React JS** (Vite) and **Tailwind CSS**, featuring a 
 
 ## 📸 Preview
 
-![Product Gallery Screenshot](./screenshot.png) <!-- Update path if image is saved elsewhere -->
+![Product Gallery Screenshot](./Product.png) <!-- Update path if image is saved elsewhere -->
 
 ## 🛠️ Tech Stack
 
