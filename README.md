@@ -4,15 +4,19 @@ A mini project built with **React JS** (Vite) and **Tailwind CSS**, featuring a 
 
 ## 🚀 Features
 
-- 🖼️ Product cards with images, prices, and CTA button
-- 🎨 Meesho-inspired design with Tailwind utility classes
-- ⚡ Fast loading with Vite
-- ✨ Hover animations & transitions
-- 📱 Responsive grid layout for all screen sizes
+- 🖼️ Product cards with images, prices, and a clean layout
+- 🎨 Meesho-inspired styling using Tailwind CSS
+- ⚡ Fast bundling with Vite
+- ✨ Smooth hover animations
+- 📱 Fully responsive design for mobile and desktop
 
 ## 📸 Preview
 
-![Product Gallery Screenshot](./Product.png) <!-- Update path if image is saved elsewhere -->
+Here’s how the product page looks 👇
+
+![Product Gallery Preview](./preview.png)
+
+> 💡 Make sure the file `preview.png` (your screenshot) is saved in the root folder of your repo.
 
 ## 🛠️ Tech Stack
 
@@ -21,5 +25,7 @@ A mini project built with **React JS** (Vite) and **Tailwind CSS**, featuring a 
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## 📂 Project Structure
+
+
 
 
